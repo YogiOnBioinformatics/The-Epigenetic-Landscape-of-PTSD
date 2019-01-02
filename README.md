@@ -27,3 +27,13 @@ Questions given at the end of presentation for students to review and understand
 `*REFERENCES.pdf` 
 
 All academic source material used to compile presentation. **Shortened citations** are used throughout the presentation to allow students to grasp the source from where figures/data came. 
+
+
+
+**Contact Information** 
+
+![interests](https://avatars1.githubusercontent.com/u/38919947?s=400&u=49ab1365a14fac78a91e425efd583f7a2bcb3e25&v=4)
+
+Yogindra Raghav (YogiOnBioinformatics) 
+
+yraghav97@gmail.com
