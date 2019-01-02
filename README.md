@@ -20,3 +20,10 @@ Conversion of slides to PDF format for the sake of note taking during lecture.
 Excercise done during class for students to understand concepts. The learning excercise asked students to think critically about DNA Methylation Epigenomic data to answer some question associated with each figure. 
 
 
+`*QUESTIONS.pdf` 
+
+Questions given at the end of presentation for students to review and understand material presented during lecture. 
+
+`*REFERENCES.pdf` 
+
+All academic source material used to compile presentation. **Shortened citations** are used throughout the presentation to allow students to grasp the source from where figures/data came. 
