@@ -6,29 +6,27 @@ Lecture given in University of Pittsburgh course Genomics (BIOSC 1250) related t
 
 **Files**
 
-*NOTE:* `* = PTSD_Epigenetics_` 
 
-
-`*PRESENTATION.pptx` 
+:open_file_folder: :page_facing_up: `Presentation/PTSD_Epigenetics_PRESENTATION.pptx` 
 
 Contains the original PowerPoint presentation that was given along with notes for some slides to indicate what was explained. The slides do not contain many words but rather are filled with figures. All explanation of figures/concepts was done **VERBALLY** during presentation. 
 
 
-`*PDF_SLIDES.pdf` 
+:open_file_folder: :page_facing_up: `Presentation/PTSD_Epigenetics_PDF_SLIDES.pdf`
 
 Conversion of slides to PDF format for the sake of note taking during lecture. 
 
 
-`*LEARNING_EXCERCISE.pdf` 
+:open_file_folder: :page_facing_up: `Student Learning/PTSD_Epigenetics_LEARNING_EXCERCISE.pdf` 
 
 Excercise done during class for students to understand concepts. The learning excercise asked students to think critically about DNA Methylation Epigenomic data to answer some question associated with each figure. 
 
 
-`*QUESTIONS.pdf` 
+:open_file_folder: :page_facing_up: `Student Learning/PTSD_Epigenetics_QUESTIONS.pdf` 
 
 Questions given at the end of presentation for students to review and understand material presented during lecture. 
 
-`*REFERENCES.pdf` 
+:scroll: `PTSD_Epigenetics_REFERENCES.pdf` 
 
 All academic source material used to compile presentation. **Shortened citations** are used throughout the presentation to allow students to grasp the source from where figures/data came. 
 
